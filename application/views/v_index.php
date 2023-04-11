@@ -15,7 +15,7 @@ controller.</p>
 
  <ol type="a">
  <li>Model</li>
-<p align=’justify’>Model adalah kelas yang merepresentasikan atau
+<p align='justify'>Model adalah kelas yang merepresentasikan atau
 memodelkan tipe data yang akan digunakan oleh aplikasi. Model juga
 dapat didefinisakn sebagai bagian penanganan yang berhubungan dengan
 pengolahan atau manipulasi database. Seperti misalnya mengambil data
