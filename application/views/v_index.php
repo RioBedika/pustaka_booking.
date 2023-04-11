@@ -2,7 +2,7 @@
  <h1>
     <?php echo $judul ?>
     <link rel="stylesheet" type="text/css"
-href="http://localhost/pustaka-booking/assets/css/stylebuku.css">
+href="http://localhost/CI3/assets/css/stylebuku.css">
 
 </h1>
  <p align='justify'>Pada pengertian codeigniter di atas
